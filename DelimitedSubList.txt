@@ -1,0 +1,6 @@
+VehicleDetails
+Triumph,TR4,Coupe
+Triumph,TR5,Convertible,2500.00
+Triumph,TR7,Coupe,7000.00
+Aston Martin,DB7,Convertible,2750.00
+Jaguar,E-type,Coupe,27000.00
